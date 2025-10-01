@@ -1,5 +1,5 @@
 # OEP-Auto-Attendance-Generator-
-Do you best <br>
+Do your best <br>
 for upload you code space <br>
 write follwing in your terminal<br>
 git add .<br>
